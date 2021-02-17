@@ -3,7 +3,7 @@ import time
 import random
 
 wia = Wia()
-wia.access_token = "d_sk_sXwGJD31IfX5NGMUG8BAzM7P"
+wia.access_token = "llave_generada_por_wia"
 i = 0
 
 while i <20:
