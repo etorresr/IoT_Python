@@ -6,14 +6,14 @@ https://codeloop.org/python-firebase-course-for-beginners/
 import pyrebase
 
 config = {
-"apiKey": "AIzaSyAjjTHMIV0y394tayvijhU-aVVcKdkIZxU",
+"apiKey": "AIkIZxU",
 "authDomain": "esp32-aleatorios.firebaseapp.com",
-"databaseURL": "https://esp32-aleatorios-default-rtdb.firebaseio.com",
+"databaseURL": "https://esdb.firebaseio.com",
 "projectId": "esp32-aleatorios",
 "storageBucket": "esp32-aleatorios.appspot.com",
-"messagingSenderId": "197506906640",
-"appId": "1:197506906640:web:160bd9370c5300a125e895",
-"measurementId": "G-GH5PT1E3Z1"
+"messagingSenderId": "1940",
+"appId": "1:197640:web:1a125e895",
+"measurementId": "G-GH3Z1"
 }
 
 firebase = pyrebase.initialize_app(config)
